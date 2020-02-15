@@ -13,5 +13,8 @@ python bikeshare.py
 ### Files used
 bikeshare.py
 
+### Requrirements
+Python needs to pre-installed to run this script
+
 ### Credits
 https://udacity.com/
