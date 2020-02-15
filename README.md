@@ -7,6 +7,9 @@ Explore US BikeShare Data
 ### Description
 Use Python to understand U.S. bikeshare data.  Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
+### Usage
+python bikeshare.py
+
 ### Files used
 bikeshare.py
 
